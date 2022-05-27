@@ -1,5 +1,5 @@
 import hashlib
-import smtplib
+
 
 print("Hello to File Integrity Monitor, please enter the file path of the thing you want to monitor\n")
 filePath = input("Enter file path(ex. /home/downloads/passwords):\n")
